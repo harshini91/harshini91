@@ -10,23 +10,36 @@ I'm not your average data scientist; think of me as a code poet crafting elegant
 
 Embark on a journey through my repositories, where each line of code tells a story. Whether I'm crafting web enchantments, forging mobile experiences, or orchestrating data ballets, my goal is to push the boundaries of what's possible in the digital realm.
 
-## 🧠 Tech Arsenal
+## 📊 Data Science Tech Stack:
 
-Dive into my arsenal of technologies, where Python scripts perform ballets, JavaScript orchestrates symphonies, and CSS dresses up the dance floor. From machine learning potions to web development spells, I've got a bit of magic for every problem.
+1. **Programming Languages**:
+   - **Python**: Widely used for data manipulation, analysis, and machine learning. ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+2. **Data Processing and Analysis**:
+   - **Pandas**: A powerful library for data manipulation and analysis. ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+   - **NumPy**: Essential for numerical computations and array operations.![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
+
+3. **Machine Learning and AI**:
+   - **Scikit-learn**: Provides a wide range of machine learning algorithms.
+   - **TensorFlow** or **PyTorch**: For deep learning and neural networks.
+   - **XGBoost** or **LightGBM**: Popular gradient boosting libraries.
+
+4. **Data Visualization**:
+   - **Matplotlib** and **Seaborn**: For creating static plots.
+   - **Plotly** or **Bokeh**: Interactive visualization libraries.
+   - **Tableau** or **Power BI**: For more advanced visualizations.
+
+5. **Database and Storage**:
+   - **MongoDB**: NoSQL database for unstructured data.![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+   - **MySQL** or **PostgreSQL**: Relational databases for structured data.![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+6. **Version Control**:
+   - **Git**: Essential for collaboration and tracking changes.
+
 
 ## 📚 Projects Showcase
 
 Explore my projects, each a unique chapter in the epic saga of my coding adventures. From minimalist masterpieces to grandiose experiments, there's something for every code connoisseur. Don't forget to leave a star if you find the journey intriguing!
-
-🚧 Under Construction
-This space is a perpetual work-in-progress, much like the ever-expanding universe itself. As I navigate the realms of knowledge and curiosity, this profile evolves with each cosmic discovery. Expect the unexpected, and join me on this journey of continuous exploration and growth.
-
-🧠 About Me
-I am a Data Scientist with a passion. My mission? To weave the threads of imagination into the fabric of reality. From coding constellations to crafting narratives, I revel in the art of creation. Join me as we push the boundaries of what's possible and dive headfirst into the unknown.
-
-## 🌈 Acknowledgments
-
-A heartfelt thank you to the open-source community, mentors, and rubber ducks for their constant inspiration and support. Together, we build the future one commit at a time.
 
 ## 🚧 Work in Progress
 
