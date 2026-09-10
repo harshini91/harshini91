@@ -1,34 +1,85 @@
-# Hi, I'm Harshini 👋
+<h1 align="center">Hi, I'm Harshini 👋</h1>
 
-Master's student and aspiring Data Analyst. I turn raw data into dashboards and insights that answer real business questions — using Python, SQL, Excel, and Power BI.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Turning+raw+data+into+decisions;Data+Analyst+%7C+Python+%C2%B7+SQL+%C2%B7+Power+BI;Dashboards+%2B+stories%2C+not+just+charts" alt="Typing SVG" />
+</p>
 
-## 🔍 What I do
+<p align="center">
+  <a href="https://in.linkedin.com/in/harshini-pothineni-09b97a231"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</p>
 
-I like taking messy datasets and finding the story inside them: what's selling, when, to whom, and why it matters. My projects usually end with a dashboard or a clear recommendation, not just a chart.
+---
+
+### 🔍 What I do
+
+I like taking messy datasets and finding the story inside them: what's selling, when, to whom, and why it matters. My projects usually end with a dashboard or a clear recommendation — not just a chart.
+
+### 🛠️ Tools I use
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white">
+  <img src="https://img.shields.io/badge/Power BI-F2C811?style=flat-square&logo=powerbi&logoColor=black">
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
+</p>
+
+---
 
 ## 📌 Featured Projects
 
-### [Bakery Sales Dashboard](https://github.com/harshini91/Bakery-sales-analysis) — Power BI
-Built a 5-page dashboard analyzing bakery transactions (sales, customers, products, time, payments).
-- Coffee drives morning sales (8–11 AM); sandwiches generate the most revenue despite lower volume
-- Regular customers = 72% of transactions and spend more per visit
-- Sundays are the busiest day; Tuesdays are the slowest
+<details open>
+<summary><b>☕ Bakery Sales Dashboard</b> — Power BI</summary>
+<br>
 
-### [Coffee Sales Dashboard](https://github.com/harshini91/Coffee-sale-analysis) — Excel
+Built a 5-page dashboard analyzing bakery transactions across sales, customers, products, time, and payments.
+
+| Metric | Insight |
+|---|---|
+| 🌅 Morning driver | Coffee dominates 8–11 AM sales |
+| 💰 Top revenue item | Sandwiches — despite lower volume |
+| 🔁 Loyalty | Regular customers = 72% of transactions, higher spend/visit |
+| 📅 Busiest / slowest | Sundays busiest, Tuesdays slowest |
+
+**[→ View repo](https://github.com/harshini91/Bakery-sales-analysis)**
+</details>
+
+<details>
+<summary><b>☕ Coffee Sales Dashboard</b> — Excel</summary>
+<br>
+
 Interactive dashboard tracking revenue, monthly trends, and payment behavior across 8 coffee types.
-- $30,592.94 in total revenue analyzed; Latte is the top revenue generator
-- 90% of customers pay by card vs. 10% cash
-- Sales peaked in May
 
-### [Zomato Restaurant Analysis](https://github.com/harshini91/zomatoDA) — Python
-End-to-end analysis of restaurant data: EDA, a Random Forest model predicting ratings, KMeans customer segmentation, and a TF-IDF content-based recommender.
-- Explored rating distribution, cost-vs-rating trends, and top cuisines/areas
-- Built a working recommendation system that returns similar restaurants by cuisine and type
+| Metric | Insight |
+|---|---|
+| 💵 Total revenue | $30,592.94 |
+| 🏆 Top seller | Latte |
+| 💳 Payment split | 90% card, 10% cash |
+| 📈 Peak month | May |
 
-## 🛠️ Tools I use
+**[→ View repo](https://github.com/harshini91/Coffee-sale-analysis)**
+</details>
 
-`Python` · `Pandas` · `SQL` · `Excel` · `Power BI` · `Scikit-learn` · `Git`
+<details>
+<summary><b>🍽️ Zomato Restaurant Analysis</b> — Python</summary>
+<br>
 
-## 📫 Let's connect
+End-to-end analysis: EDA, a Random Forest model predicting ratings, KMeans customer segmentation, and a TF-IDF content-based recommender.
 
-[LinkedIn](https://in.linkedin.com/in/harshini-pothineni-09b97a231)
+- 📊 Explored rating distribution, cost-vs-rating trends, top cuisines/areas
+- 🌲 Random Forest Regressor predicting restaurant rating (RMSE, MAE, R² evaluated)
+- 👥 KMeans clustering on cost, rating, reviews, and online-order availability
+- 🤖 Built a working recommender that returns top-5 similar restaurants by cuisine & type
+
+**[→ View repo](https://github.com/harshini91/zomatoDA)**
+</details>
+
+---
+
+### 📫 Let's connect
+
+<a href="https://in.linkedin.com/in/harshini-pothineni-09b97a231"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+
+<p align="center"><i>Thanks for stopping by — feel free to explore the repos above ⭐</i></p>
