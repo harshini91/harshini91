@@ -1,50 +1,34 @@
-# Welcome to Harshini's World of Wonders! 🚀
+# Hi, I'm Harshini 👋
 
-Hey there, curious wanderer! 👋 I'm Harshini, a passionate explorer of the digital realms and a fervent advocate for turning caffeine into code. Welcome to my virtual abode, where creativity and innovation dance hand in hand.
+Master's student and aspiring Data Analyst. I turn raw data into dashboards and insights that answer real business questions — using Python, SQL, Excel, and Power BI.
 
-## 🌐 About Me
+## 🔍 What I do
 
-I'm not your average data scientist; think of me as a code poet crafting elegant symphonies in the language of ones and zeros. By day, I'm a software alchemist, concocting solutions to perplexing problems. By night, I'm a dreamer, sketching visions of a tech-infused utopia.
+I like taking messy datasets and finding the story inside them: what's selling, when, to whom, and why it matters. My projects usually end with a dashboard or a clear recommendation, not just a chart.
 
-## 🚀 Mission
+## 📌 Featured Projects
 
-Embark on a journey through my repositories, where each line of code tells a story. Whether I'm crafting web enchantments, forging mobile experiences, or orchestrating data ballets, my goal is to push the boundaries of what's possible in the digital realm.
+### [Bakery Sales Dashboard](https://github.com/harshini91/Bakery-sales-analysis) — Power BI
+Built a 5-page dashboard analyzing bakery transactions (sales, customers, products, time, payments).
+- Coffee drives morning sales (8–11 AM); sandwiches generate the most revenue despite lower volume
+- Regular customers = 72% of transactions and spend more per visit
+- Sundays are the busiest day; Tuesdays are the slowest
 
-## 📊 Data Science Tech Stack:
+### [Coffee Sales Dashboard](https://github.com/harshini91/Coffee-sale-analysis) — Excel
+Interactive dashboard tracking revenue, monthly trends, and payment behavior across 8 coffee types.
+- $30,592.94 in total revenue analyzed; Latte is the top revenue generator
+- 90% of customers pay by card vs. 10% cash
+- Sales peaked in May
 
-1. **Programming Languages**:
-   - **Python**: Widely used for data manipulation, analysis, and machine learning. ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+### [Zomato Restaurant Analysis](https://github.com/harshini91/zomatoDA) — Python
+End-to-end analysis of restaurant data: EDA, a Random Forest model predicting ratings, KMeans customer segmentation, and a TF-IDF content-based recommender.
+- Explored rating distribution, cost-vs-rating trends, and top cuisines/areas
+- Built a working recommendation system that returns similar restaurants by cuisine and type
 
-2. **Data Processing and Analysis**:
-   - **Pandas**: A powerful library for data manipulation and analysis. ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-   - **NumPy**: Essential for numerical computations and array operations.![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
+## 🛠️ Tools I use
 
-3. **Machine Learning and AI**:
-   - **Scikit-learn**: Provides a wide range of machine learning algorithms.
-   - **TensorFlow** or **PyTorch**: For deep learning and neural networks.
-   - **XGBoost** or **LightGBM**: Popular gradient boosting libraries.
+`Python` · `Pandas` · `SQL` · `Excel` · `Power BI` · `Scikit-learn` · `Git`
 
-4. **Data Visualization**:
-   - **Matplotlib** and **Seaborn**: For creating static plots.
-   - **Plotly** or **Bokeh**: Interactive visualization libraries.
-   - **Tableau** or **Power BI**: For more advanced visualizations.
+## 📫 Let's connect
 
-5. **Database and Storage**:
-   - **MongoDB**: NoSQL database for unstructured data.![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-   - **MySQL** or **PostgreSQL**: Relational databases for structured data.![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-6. **Version Control**:
-   - **Git**: Essential for collaboration and tracking changes.
-
-
-## 📚 Projects Showcase
-
-Explore my projects, each a unique chapter in the epic saga of my coding adventures. From minimalist masterpieces to grandiose experiments, there's something for every code connoisseur. Don't forget to leave a star if you find the journey intriguing!
-
-## 🚧 Work in Progress
-
-Stay tuned for upcoming projects and mind-bending challenges. The best is yet to come!
-
-Feel free to grab a virtual coffee and explore the wonders within. Let the code adventure begin! 🚀✨
-
-**May your bugs be minimal and your creativity boundless!** 🌟
+[LinkedIn](https://in.linkedin.com/in/harshini-pothineni-09b97a231)
