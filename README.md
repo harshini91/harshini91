@@ -241,13 +241,30 @@ Investigating explainable ML approaches for personalized autism assessment and i
 ---
 
 
-## 🏆 GitHub Achievements
+
+## 🏆 My Developer Milestones
 
 <div align="center">
 
-<img src="https://github-profile-trophy-fork.vercel.app/?username=harshini91&theme=discord&no-frame=true&no-bg=true&margin-w=12&row=1" width="98%" alt="GitHub trophies" />
+<img src="https://img.shields.io/badge/Computer_Science-MS_Student-8B5CF6?style=for-the-badge" alt="MS Computer Science Student" />
+
+<img src="https://img.shields.io/badge/Research-Explainable_AI-00B8D9?style=for-the-badge" alt="Explainable AI Research" />
+
+<img src="https://img.shields.io/badge/Focus-Data_Analytics-7C3AED?style=for-the-badge" alt="Data Analytics" />
+
+<br/><br/>
+
+| 🎓 Education | 🔬 Research | 💼 Experience |
+| :---: | :---: | :---: |
+| MS Computer Science | Multimodal ML & XAI | Business Analyst Internship |
+| Wichita State University | Ongoing Thesis | Binarama |
+
+<br/>
+
+**✨ Learning • Building • Researching • Growing ✨**
 
 </div>
+
 
 
 ---
