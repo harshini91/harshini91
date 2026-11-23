@@ -276,24 +276,22 @@ Investigating explainable ML approaches for personalized autism assessment and i
 
 ---
 
+
 ## 🤝 Let's Connect
 
 <div align="center">
 
-I'm always interested in learning, collaborating and connecting with people who love technology, data and meaningful problem-solving.
+I'm always excited to connect with people who share a passion for technology, data, AI, and meaningful innovation.
+
+<br/>
+
+<a href="https://www.linkedin.com/in/harshini-pothineni-09b97a231/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
 
 <a href="https://github.com/harshini91">
-<img src="https://img.shields.io/badge/GitHub-18122D?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-18122D?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
-
-<!-- Replace YOUR_LINKEDIN_URL with your actual LinkedIn profile URL before publishing. -->
-<!--
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
--->
-
-<!-- Add an email badge here after choosing a public contact address. -->
 
 <br/><br/>
 
@@ -304,3 +302,5 @@ I'm always interested in learning, collaborating and connecting with people who 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=110&color=0:080617,50:7028B8,100:00C9FF" />
 
 </div>
+
+
