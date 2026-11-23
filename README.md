@@ -1,209 +1,184 @@
+
+<!--
+GitHub Profile README
+Repository: harshini91/harshini91
+-->
+
 <div align="center">
 
-# 👋 Hey there, I'm Harshini Pothineni!
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:101B35,50:164E78,100:7047A3&height=200&section=header&text=Harshini%20Pothineni&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Data%20Analytics%20%7C%20Computer%20Science&descAlignY=60&descSize=18" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=700&lines=MS+Computer+Science+Student+%F0%9F%8E%93;Aspiring+Data+Analyst+%F0%9F%93%8A;Turning+Raw+Data+into+Insights+%F0%9F%92%A1;Python+%7C+SQL+%7C+Power+BI+%7C+Machine+Learning;Always+Learning.+Always+Building.+%F0%9F%9A%80" alt="Typing SVG" />
-
-<br>
-
-### 📊 Data Analytics • 💻 Python • 🗄️ SQL • 📈 Power BI • 🤖 Machine Learning
-
-*"Finding stories hidden inside data."*
+<a href="https://www.linkedin.com/in/harshini-pothineni-09b97a231/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/harshini91">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </div>
 
 ---
 
-## 👩‍💻 About Me
+## 👋 About Me
 
-```python
-harshini = {
-    "education": "MS in Computer Science 🎓",
-    "university": "Wichita State University",
-    "focus": ["Data Analytics", "Machine Learning", "Data Visualization"],
-    "tools": ["Python", "SQL", "Power BI", "Excel"],
-    "currently": "Building projects & working on research 🔬",
-    "goal": "Data Analyst / Data Analytics Internship 🚀",
-    "fun_fact": "I probably enjoy cleaning datasets more than I should 😄"
-}
-```
+Hello! I'm **Harshini Pothineni**, a Computer Science graduate with a background in Artificial Intelligence and currently pursuing my Master's in Computer Science at **Wichita State University**.
 
-I love working with **data, patterns, and visualization** — taking something messy and turning it into something people can actually understand.
+I'm passionate about using data, technology, and analytical thinking to solve real-world problems.
 
-Currently, I'm combining my Computer Science background with hands-on experience in **Data Analytics and Machine Learning** while building projects that solve practical problems.
+- 🎓 MS in Computer Science — Wichita State University
+- 🎓 B.Tech in Computer Science (Artificial Intelligence)
+- 📅 Expected graduation: May 2027
+- 📊 Interested in Data Analytics and Business Analytics
+- 🐍 Working with Python, SQL, Excel and Power BI
+- 📈 Enjoy building dashboards and exploring meaningful patterns in data
+- 💼 Interested in Data Analyst and Software/Technology internship opportunities
+- 📍 Wichita, Kansas, USA
 
 ---
 
-# ⚡ My Tech Universe
+## 🎯 Areas of Interest
 
 <div align="center">
 
-### 💻 Languages
-
-<img src="https://skillicons.dev/icons?i=python,mysql" />
-
-### 📊 Analytics & Visualization
-
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-
-### 🤖 Machine Learning
-
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Feature_Engineering-ML-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Classification-ML-purple?style=for-the-badge"/>
-
-### 🛠️ Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+| 📊 Data Analytics | 💻 Computer Science |
+|:---:|:---:|
+| Exploratory Data Analysis | Programming |
+| Data Cleaning | Problem Solving |
+| Data Visualization | Computer Science Fundamentals |
+| Business Intelligence | Software Development |
+| Dashboard Development | Database Management |
 
 </div>
 
 ---
 
-# 🔬 Inside My Research Lab
+## 🛠️ Tech Stack
 
-I'm currently working with **physiological sensor data + Machine Learning** as part of my Master's research.
+### Programming & Databases
 
-```text
-⌚ Raw Sensor Data
-       │
-       ▼
-🧹 Data Preprocessing
-       │
-       ▼
-⚙️ Feature Extraction
-       │
-       ▼
-📊 Data Exploration
-       │
-       ▼
-🤖 Machine Learning
-       │
-       ▼
-💡 Patterns & Insights
-```
+<p>
+<img src="https://skillicons.dev/icons?i=python,r,mysql,postgres,git,github,vscode" />
+</p>
 
-### Signals I'm exploring
+### Data Analytics & Visualization
 
-❤️ **Heart Rate**
-📈 **Blood Volume Pulse**
-⚡ **Electrodermal Activity**
-🌡️ **Temperature**
-🏃 **Accelerometer Data**
+<p>
+<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+</p>
 
-My focus is on transforming physiological signals into meaningful features that can be analyzed using **traditional Machine Learning approaches**.
+### Skills
+
+- Python, SQL, R
+- Microsoft Excel
+- Power BI
+- Data Cleaning and Transformation
+- Exploratory Data Analysis
+- Data Visualization
+- Jupyter Notebook
+- Git and GitHub
 
 ---
 
-# 🚀 What I'm Building
+## 🚀 Featured Projects
 
-```text
-📊 Power BI Dashboards       █████████░  Building
-🗄️ SQL Analytics            ████████░░  Learning + Building
-🐍 Python Data Analysis      █████████░  Building
-🤖 Machine Learning          ████████░░  Exploring
-🔬 Master's Research         █████████░  In Progress
-```
+### ☕ 1. Coffee Sales Dashboard
 
-My goal isn't just to collect technologies.
+**Tools:** Microsoft Excel
 
-**I want every project to answer a question with data.**
+- Developed a sales dashboard for coffee vending machine transactions.
+- Analyzed sales volume and product performance.
+- Explored transaction trends and business insights.
+- Used dashboard visualizations to communicate findings.
+
+### 🏡 2. Real Estate Market Analysis
+
+**Tools:** SQL
+
+- Analyzed a USA real estate dataset.
+- Explored property market value trends.
+- Used SQL queries to investigate profitability.
+- Practiced data extraction and analytical querying.
+
+### 🚗 3. Car Sales Analysis
+
+**Tools:** Power BI
+
+- Analyzed car listings and pricing patterns.
+- Compared brands, models, fuel types and transmissions.
+- Explored vehicle age and ownership-related trends.
+- Presented findings through interactive visualizations.
+
+### 🥐 4. Bakery Transaction Analysis
+
+**Tools:** Power BI, Data Analysis
+
+- Explored bakery transaction data.
+- Investigated customer purchasing patterns.
+- Analyzed transaction timing and business trends.
+- Prepared supporting research and documentation.
+
+> Visit my repositories for project source files and documentation.
 
 ---
 
-# 📂 Featured Projects
+## 📚 Currently Learning
+
+- Advanced SQL and database concepts
+- Python for data analysis
+- Data visualization and storytelling
+- Computer Science and software development
+- Practical applications of analytics
+
+---
+
+## 📊 GitHub Statistics
 
 <div align="center">
 
-### 🚧 Portfolio Upgrade in Progress 🚧
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=harshini91&show_icons=true&theme=tokyonight&hide_border=true&bg_color=101B35&title_color=67D9FF&icon_color=B7A4FF&text_color=E2E8F0" />
 
-</div>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshini91&layout=compact&theme=tokyonight&hide_border=true&bg_color=101B35&title_color=67D9FF&text_color=E2E8F0" />
 
-I'm currently transforming my projects into complete case studies with:
+<br/>
 
-**Problem → Data → Cleaning → Analysis → Visualization → Insights**
-
-Soon you'll find projects covering:
-
-📊 **Power BI Analytics**
-🗄️ **SQL Data Analysis**
-🐍 **Python EDA**
-🤖 **Machine Learning**
-🔬 **Research & Feature Engineering**
-
-> ⭐ Check out my pinned repositories below to follow what I'm building!
-
----
-
-# 📈 GitHub Activity
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=harshini91&show_icons=true&hide_border=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshini91&layout=compact&hide_border=true" />
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=harshini91&hide_border=true" />
-
-</div>
-
----
-
-# 🐍 Watch My Contributions Get Eaten
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/harshini91/harshini91/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<img src="https://streak-stats.demolab.com?user=harshini91&theme=tokyonight&hide_border=true&background=101B35&ring=67D9FF&fire=B7A4FF&currStreakLabel=67D9FF" />
 
 </div>
 
 ---
 
-# 🎯 Where I'm Heading
-
-```text
-TODAY                                          NEXT
-  │                                              │
-  ├── 🎓 MS Computer Science                     │
-  ├── 📊 Data Analytics                          │
-  ├── 🐍 Python                                  │
-  ├── 🗄️ SQL                                    │
-  ├── 📈 Power BI                                │
-  └── 🔬 Research ───────► 🚀 DATA ANALYST ──────┘
-```
-
-I'm especially interested in:
-
-**Data Analyst • BI Analyst • Data Analytics Internships • Applied ML**
-
----
-
-# 🤝 Let's Connect!
+## 📈 Contribution Activity
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/harshini-pothineni-09b97a231">
-<img src="https://img.shields.io/badge/LinkedIn-Harshini_Pothineni-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=harshini91&bg_color=101B35&color=67D9FF&line=9B8AFB&point=FFFFFF&area=true&hide_border=true" width="100%" />
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+I'm always happy to connect with students, professionals, recruiters and people interested in analytics and technology.
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/harshini-pothineni-09b97a231/">
+<img src="https://img.shields.io/badge/LinkedIn-Harshini%20Pothineni-0A66C2?style=for-the-badge&logo=linkedin" />
 </a>
 
 <a href="https://github.com/harshini91">
-<img src="https://img.shields.io/badge/GitHub-harshini91-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-harshini91-181717?style=for-the-badge&logo=github" />
 </a>
 
-<br><br>
+<br/><br/>
 
-### 💭
+**Thanks for visiting my GitHub profile! 💜**
 
-**Data → Patterns → Insights → Decisions**
-
-✨ *Learning. Building. Analyzing. Growing.* ✨
-
-![Profile Views](https://komarev.com/ghpvc/?username=harshini91\&style=for-the-badge)
+*Learn • Analyze • Build • Grow*
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7047A3,50:164E78,100:101B35&height=100&section=footer" width="100%" />
