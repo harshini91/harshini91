@@ -1,90 +1,61 @@
 
-<!-- ================= PROFILE HEADER ================= -->
+<!-- =============== TOKYO NIGHT HEADER =============== -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=190&color=0:0B1930,50:123E68,100:30265F&text=Harshini%20Pothineni&fontSize=43&fontColor=FFFFFF&fontAlignY=43&desc=DATA%20ANALYTICS%20%20%7C%20%20COMPUTER%20SCIENCE%20%20%7C%20%20RESEARCH&descSize=14&descColor=8CE7FF&descAlignY=67" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:24283b,100:7aa2f7&height=200&section=header&text=Harshini%20Pothineni&fontSize=42&fontColor=c0caf5&fontAlignY=38&desc=Computer%20Science%20%7C%20Data%20Analytics%20%7C%20Research&descAlignY=58&descSize=16" />
+
+<a href="https://www.linkedin.com/in/harshini-pothineni-09b97a231/">
+<img src="https://img.shields.io/badge/LinkedIn-7aa2f7?style=for-the-badge&logo=linkedin&logoColor=1a1b27" />
+</a>
+<a href="https://github.com/harshini91">
+<img src="https://img.shields.io/badge/GitHub-bb9af7?style=for-the-badge&logo=github&logoColor=1a1b27" />
+</a>
 
 <br/>
 
-<a href="https://www.linkedin.com/in/harshini-pothineni-09b97a231/">
-<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-2867B2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:harshinipothineni@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-SAY%20HELLO-D94B52?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://github.com/harshini91">
-<img src="https://img.shields.io/badge/GITHUB-VISIT-252A36?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<img src="https://img.shields.io/badge/Currently%20Learning-7dcfff?style=flat-square&labelColor=24283b" />
+<img src="https://img.shields.io/badge/Based%20in-USA-9ece6a?style=flat-square&labelColor=24283b" />
 
 </div>
 
 ---
 
-<!-- ================= ABOUT ME ================= -->
-
-## 👋 About Me
+## <img src="https://img.shields.io/badge/01-About%20Me-7aa2f7?style=flat-square" />
 
 <table>
 <tr>
-<td width="58%" valign="top">
+<td width="60%" valign="top">
 
-I'm **Harshini Pothineni**, a Computer Science master's student at Wichita State University with an undergraduate background in Artificial Intelligence.
+### Hey there! 👋
 
-I enjoy turning messy data into meaningful insights, building interactive dashboards, and exploring how technology can solve real-world problems.
+I'm **Harshini Pothineni**, a Computer Science graduate and Master's student at **Wichita State University**.
+
+I enjoy exploring data, discovering patterns, and transforming raw information into meaningful insights.
 
 My interests include:
 
-- 📊 Data Analytics & Business Intelligence
-- 🐍 Python and SQL
-- 📈 Data Visualization
-- 🤖 Machine Learning & Explainable AI
-- 🔬 Multimodal Data Analysis
-- 💡 Research and problem-solving
+- 📊 Data Analytics & Visualization
+- 🧠 Machine Learning
+- 🗄️ SQL & Database Management
+- 📈 Business Intelligence
+- 🔬 Research & Data-driven Problem Solving
 
-Currently exploring the intersection of data, artificial intelligence, and computer science.
+I believe good analysis is not just about numbers — it's about understanding the story behind them.
 
 </td>
-<td width="42%" valign="top">
+<td width="40%" valign="top">
 
-<div align="center">
+### 🌙 At a Glance
 
-<img src="https://img.shields.io/badge/AT%20A%20GLANCE-0D1832?style=for-the-badge"/>
-
-</div>
-
-<table>
-<tr>
-<td align="center">
-<h2>2027</h2>
-<sub>EXPECTED GRADUATION</sub>
-</td>
-<td align="center">
-<h2>06</h2>
-<sub>FEATURED PROJECTS</sub>
-</td>
-</tr>
-<tr>
-<td align="center">
-<h2>06</h2>
-<sub>CERTIFICATIONS</sub>
-</td>
-<td align="center">
-<h2>01</h2>
-<sub>RESEARCH MANUSCRIPT</sub>
-</td>
-</tr>
-</table>
-
-**Education**
-
-🔹 MS Computer Science — Wichita State University
-
-🔹 B.Tech AI — Parul University
-
-**Location**
-
-📍 Wichita, Kansas, USA
+| | |
+|---|---|
+| 🎓 | MS Computer Science |
+| 🏫 | Wichita State University |
+| 📅 | Expected 2027 |
+| 💻 | Python · SQL · Power BI |
+| 🔍 | Analytics & Research |
+| 🌎 | United States |
 
 </td>
 </tr>
@@ -92,38 +63,7 @@ Currently exploring the intersection of data, artificial intelligence, and compu
 
 ---
 
-<!-- ================= PUBLICATIONS ================= -->
-
-## 📑 Publications & Research
-
-<table>
-<tr>
-<td width="13%" align="center">
-
-**2024**
-
-</td>
-<td>
-
-### Smart Shoppers — Research Manuscript
-
-**Price Comparison Web Application**
-
-Developed a price-comparison application aggregating product prices from more than five e-commerce websites.
-
-Research manuscript documenting the system design and price-comparison approach.
-
-`Submitted for publication · Not yet accepted`
-
-</td>
-</tr>
-</table>
-
----
-
-<!-- ================= WHAT I DO ================= -->
-
-## 🧭 What I Do
+## <img src="https://img.shields.io/badge/02-What%20I%20Do-bb9af7?style=flat-square" />
 
 <table>
 <tr>
@@ -133,7 +73,7 @@ Research manuscript documenting the system design and price-comparison approach.
 
 **Data Analytics**
 
-<sub>EDA, data cleaning, statistical analysis and insights</sub>
+Exploratory analysis, data cleaning, and extracting meaningful insights.
 
 </td>
 <td align="center" width="25%">
@@ -142,25 +82,25 @@ Research manuscript documenting the system design and price-comparison approach.
 
 **Business Intelligence**
 
-<sub>Power BI, Excel dashboards and reporting</sub>
+Interactive dashboards, reporting, and data visualization.
 
 </td>
 <td align="center" width="25%">
 
-### 🧠
+### 🤖
 
 **Machine Learning**
 
-<sub>AI, multimodal data and explainable ML research</sub>
+Exploring models, patterns, and data-driven approaches.
 
 </td>
 <td align="center" width="25%">
 
-### 💻
+### 🧪
 
-**Programming**
+**Research**
 
-<sub>Python, SQL, R and data-driven applications</sub>
+Working with physiological and behavioral data.
 
 </td>
 </tr>
@@ -168,35 +108,33 @@ Research manuscript documenting the system design and price-comparison approach.
 
 ---
 
-<!-- ================= TECH STACK ================= -->
-
-## 🛠️ Tech Stack
+## <img src="https://img.shields.io/badge/03-Tech%20Stack-7dcfff?style=flat-square" />
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,r,mysql,postgres,git,github,vscode,jupyter&theme=dark" />
+### Languages & Data
 
-<br/><br/>
+<img src="https://skillicons.dev/icons?i=python,r,mysql&theme=dark" />
 
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-356A9A?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Seaborn-4C7899?style=for-the-badge"/>
+### Analytics & Tools
 
-<br/><br/>
+<img src="https://img.shields.io/badge/Power%20BI-1a1b27?style=for-the-badge&logo=powerbi&logoColor=f7c843" />
+<img src="https://img.shields.io/badge/Excel-1a1b27?style=for-the-badge&logo=microsoftexcel&logoColor=9ece6a" />
+<img src="https://img.shields.io/badge/Jupyter-1a1b27?style=for-the-badge&logo=jupyter&logoColor=ff9e64" />
+<img src="https://img.shields.io/badge/Pandas-1a1b27?style=for-the-badge&logo=pandas&logoColor=bb9af7" />
 
-**Core Skills**
+### Other Skills
 
-`Python` · `SQL` · `R` · `Excel` · `Power BI` · `Pandas` · `EDA` · `Data Cleaning` · `Data Visualization` · `Regression Analysis` · `Reporting`
+<img src="https://img.shields.io/badge/Data%20Cleaning-24283b?style=flat-square&color=7aa2f7" />
+<img src="https://img.shields.io/badge/EDA-24283b?style=flat-square&color=bb9af7" />
+<img src="https://img.shields.io/badge/Data%20Visualization-24283b?style=flat-square&color=7dcfff" />
+<img src="https://img.shields.io/badge/Reporting-24283b?style=flat-square&color=9ece6a" />
 
 </div>
 
 ---
 
-<!-- ================= FEATURED PROJECTS ================= -->
-
-## 🚀 Featured Projects
+## <img src="https://img.shields.io/badge/04-Featured%20Projects-bb9af7?style=flat-square" />
 
 <table>
 <tr>
@@ -206,11 +144,10 @@ Research manuscript documenting the system design and price-comparison approach.
 
 **Excel**
 
-Interactive sales dashboard exploring:
+An interactive dashboard exploring coffee sales, product categories, sales volume, and transaction trends.
 
-- Sales volume and product mix
-- Transaction trends
-- Peak sales periods
+<img src="https://img.shields.io/badge/Excel-9ece6a?style=flat-square&logo=microsoftexcel&logoColor=1a1b27" />
+<img src="https://img.shields.io/badge/Dashboard-24283b?style=flat-square" />
 
 </td>
 <td width="50%" valign="top">
@@ -219,15 +156,13 @@ Interactive sales dashboard exploring:
 
 **SQL**
 
-Exploring US real estate data through:
+Analyzed a US real estate dataset using SQL queries to explore market values, trends, and profitability.
 
-- Property value analysis
-- Regional market trends
-- SQL-based data exploration
+<img src="https://img.shields.io/badge/SQL-7aa2f7?style=flat-square&logo=mysql&logoColor=1a1b27" />
+<img src="https://img.shields.io/badge/Data%20Analysis-24283b?style=flat-square" />
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
@@ -235,11 +170,10 @@ Exploring US real estate data through:
 
 **Power BI**
 
-Interactive vehicle pricing analysis:
+Explored car pricing patterns across brands, models, transmission types, fuel types, and vehicle age.
 
-- Brand and model comparisons
-- Fuel and transmission patterns
-- Vehicle age and pricing
+<img src="https://img.shields.io/badge/Power%20BI-f7c843?style=flat-square&logo=powerbi&logoColor=1a1b27" />
+<img src="https://img.shields.io/badge/Visualization-24283b?style=flat-square" />
 
 </td>
 <td width="50%" valign="top">
@@ -248,78 +182,36 @@ Interactive vehicle pricing analysis:
 
 **Power BI**
 
-Exploring bakery transactions through:
+Explored bakery transaction data and developed visual reports to understand sales and customer patterns.
 
-- Transaction trends
-- Business insights
-- Analytical dashboards
+<img src="https://img.shields.io/badge/Power%20BI-f7c843?style=flat-square&logo=powerbi&logoColor=1a1b27" />
+<img src="https://img.shields.io/badge/Business%20Insights-24283b?style=flat-square" />
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
 ### 🍽️ Zomato Data Analysis
 
-**Python · Pandas · Matplotlib · Seaborn**
+**Python**
 
-Restaurant data exploration:
+Explored restaurant data, ratings, cuisines, and pricing patterns to uncover insights.
 
-- Ratings analysis
-- Cuisine patterns
-- Pricing insights
+<img src="https://img.shields.io/badge/Python-7aa2f7?style=flat-square&logo=python&logoColor=1a1b27" />
+<img src="https://img.shields.io/badge/EDA-24283b?style=flat-square" />
 
 </td>
 <td width="50%" valign="top">
 
 ### 🧬 Physiological & Behavioral Data Analysis
 
-**Data Analysis · Research**
+**Research**
 
-Working with physiological signals and behavioral annotations:
+Working with physiological signals and behavioral annotations, including preprocessing, synchronization, and feature extraction.
 
-- Data preprocessing
-- Synchronization and validation
-- Feature extraction
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-<a href="https://github.com/harshini91?tab=repositories">
-<img src="https://img.shields.io/badge/GITHUB-EXPLORE%20ALL%20PROJECTS-202B43?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<!-- ================= CURRENT RESEARCH ================= -->
-
-## 🔬 Current Research
-
-<table>
-<tr>
-<td width="100%">
-
-### Explainable Multimodal Machine Learning for Personalized Autism Assessment and Intervention
-
-**Wichita State University · 2026 – Present**
-
-Exploring multimodal approaches and explainable machine learning for personalized autism assessment and intervention.
-
-**Research areas**
-
-- Physiological and behavioral data
-- Video, audio and gaze modalities
-- Multimodal data integration
-- Explainable machine learning
-- Personalized interventions
-
-<sub>Status: In progress</sub>
+<img src="https://img.shields.io/badge/Research-bb9af7?style=flat-square" />
+<img src="https://img.shields.io/badge/Python-7aa2f7?style=flat-square&logo=python&logoColor=1a1b27" />
 
 </td>
 </tr>
@@ -327,39 +219,30 @@ Exploring multimodal approaches and explainable machine learning for personalize
 
 ---
 
-<!-- ================= EDUCATION ================= -->
-
-## 🎓 Education & Certifications
+## <img src="https://img.shields.io/badge/05-Education-7aa2f7?style=flat-square" />
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### Education
+### 🎓 Master's Degree
 
 **Wichita State University**
 
-M.S. Computer Science
+MS in Computer Science
 
-`Expected May 2027`
-
-**Parul University**
-
-B.Tech Computer Science & Technology (AI)
-
-`April 2025`
+Expected Graduation: May 2027
 
 </td>
 <td width="50%" valign="top">
 
-### Certifications
+### 🎓 Bachelor's Degree
 
-- Fundamentals of Machine Learning — 2022
-- Programming in Python — 2023
-- Excel Using ChatGPT — 2024
-- SQL Basic & Intermediate — 2024
-- Data Visualization with Python — 2024
-- Data Science: Training + Internship — 2024
+**Parul University**
+
+B.Tech in Computer Science & Technology (Artificial Intelligence)
+
+Graduated: 2025
 
 </td>
 </tr>
@@ -367,19 +250,17 @@ B.Tech Computer Science & Technology (AI)
 
 ---
 
-<!-- ================= GITHUB ACTIVITY ================= -->
-
-## 📊 GitHub Activity
+## <img src="https://img.shields.io/badge/06-GitHub%20Activity-bb9af7?style=flat-square" />
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=harshini91&bg_color=0B1930&color=65D5F1&line=9B85F5&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=harshini91&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=bb9af7&icon_color=7aa2f7&text_color=c0caf5" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshini91&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=bb9af7&text_color=c0caf5" />
 
 <br/><br/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=harshini91&show_icons=true&hide_border=true&bg_color=0B1930&title_color=65D5F1&icon_color=9B85F5&text_color=E6EDF3"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshini91&layout=compact&hide_border=true&bg_color=0B1930&title_color=65D5F1&text_color=E6EDF3"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=harshini91&bg_color=1a1b27&color=c0caf5&line=7aa2f7&point=bb9af7&area=true&hide_border=true" />
 
 </div>
 
@@ -387,12 +268,10 @@ B.Tech Computer Science & Technology (AI)
 
 <div align="center">
 
-### ✨ Thanks for visiting!
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,50:24283b,100:bb9af7&height=120&section=footer" />
 
-**Let's explore data, create ideas, and build something meaningful.**
+### ✨ Thanks for visiting my profile!
 
-<sub>LEARN · EXPLORE · ANALYZE · CREATE</sub>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:30265F,50:123E68,100:0B1930&height=100&section=footer"/>
+<sub>Learning • Building • Exploring • Growing</sub>
 
 </div>
