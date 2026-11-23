@@ -240,15 +240,15 @@ Investigating explainable ML approaches for personalized autism assessment and i
 
 ---
 
+
 ## 🏆 GitHub Achievements
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=harshini91&theme=discord&no-frame=true&no-bg=true&margin-w=12&row=1&column=6" width="98%" alt="GitHub profile trophies" />
-
-<sub>Automatically generated from public GitHub activity. Displayed trophies depend on the service and available data.</sub>
+<img src="https://github-profile-trophy-fork.vercel.app/?username=harshini91&theme=discord&no-frame=true&no-bg=true&margin-w=12&row=1" width="98%" alt="GitHub trophies" />
 
 </div>
+
 
 ---
 
