@@ -156,11 +156,14 @@ harshini@github:~$ █
 
 ---
 
-## 🚀 Featured Work
+
+## 🚀 Featured Projects
 
 <div align="center">
 
-*Exploring data, building analytical solutions, and documenting what I learn.*
+### ✦ Selected Work
+
+*From raw data to meaningful insights.*
 
 </div>
 
@@ -168,44 +171,48 @@ harshini@github:~$ █
 <tr>
 <td width="50%" valign="top">
 
-### 📊 Power BI Analytics
+### 🛒 Smart Shoppers
 
-**Kansas City 311 Service Requests**
+**Price Comparison Web Application**
 
-Exploring service-request patterns through interactive dashboards, KPIs, trends and data visualization.
+A web-scraping platform designed to compare product prices across multiple e-commerce websites and help users discover better deals.
 
-**Tools:** Power BI · DAX · Data Modeling
+**Focus:** Web Scraping · Price Comparison
 
 </td>
 <td width="50%" valign="top">
 
-### 🐍 AI Job Market Analysis
+### 🚗 Car Sales Analysis
 
-**Global AI Job Market**
+**Interactive Power BI Dashboard**
 
-Analyzing AI job market data using Python to explore trends, patterns and insights.
+Explored vehicle pricing patterns across different brands, fuel types, transmissions, and vehicle ages through interactive visualizations.
 
-**Tools:** Python · Pandas · EDA
+**Tools:** Power BI · Data Visualization
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🛒 Smart Shoppers Research
+### 🏠 Real Estate Market Analysis
 
-Exploring research-driven approaches to understanding shopping behavior and decision-making.
+**SQL Data Analysis Project**
 
-**Focus:** Research · Data Analysis
+Analyzed real estate market data to uncover property value trends, regional differences, and potential profitability insights.
+
+**Tools:** SQL · Data Analysis
 
 </td>
 <td width="50%" valign="top">
 
-### 🔬 Multimodal ML Research
+### 🍽️ Zomato Data Analysis
 
-Investigating explainable ML approaches for personalized autism assessment and intervention.
+**Python Exploratory Data Analysis**
 
-**Focus:** Multimodal ML · XAI · Evaluation
+Cleaned and explored restaurant data to understand ratings, cuisines, pricing patterns, and restaurant performance.
+
+**Tools:** Python · Pandas · Matplotlib · Seaborn
 
 </td>
 </tr>
@@ -214,11 +221,10 @@ Investigating explainable ML approaches for personalized autism assessment and i
 <div align="center">
 
 <a href="https://github.com/harshini91?tab=repositories">
-<img src="https://img.shields.io/badge/VIEW_MY_PUBLIC_REPOSITORIES-00A9CE?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/EXPLORE_MY_REPOSITORIES-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" />
 </a>
 
 </div>
-
 ---
 
 ## 🌌 My Developer Journey
